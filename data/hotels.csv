@@ -1,0 +1,36 @@
+name,location,rating,price_per_night,available_rooms,amenities
+Aphrodite Hotel,Larnaca,4.5,120,8,"Pool, Free Wi-Fi, Breakfast"
+Larnaca Bay Hotel,Larnaca,4.0,100,5,"Sea view, Breakfast"
+Almyra Hotel,Larnaca,5.0,200,6,"Spa, Pool, Free Wi-Fi, Restaurant"
+Golden Sands Resort,Larnaca,4.3,140,7,"Beach access, Pool, Free Wi-Fi"
+Mediterranean Breeze Hotel,Larnaca,3.9,90,10,"Free Wi-Fi, Breakfast"
+
+Athens Boutique Hotel,Athens,4.0,130,10,"City centre, Free Wi-Fi, Breakfast"
+Plaka Panorama,Athens,4.5,150,7,"Rooftop terrace, Views, Breakfast"
+Acropolis View Hotel,Athens,4.0,120,5,"Near Acropolis, Free Wi-Fi, Breakfast"
+Hellenic Palace,Athens,4.7,180,6,"Spa, Gym, Free Wi-Fi, Restaurant"
+Agora Central Hotel,Athens,3.8,95,12,"Breakfast, Central location"
+
+Hotel Venezia,Venice,4.0,180,9,"Canal view, Free Wi-Fi, Breakfast"
+Grand Canal Hotel,Venice,4.5,200,6,"Luxury, Pool, Breakfast, Views"
+Florence Heritage Hotel,Venice,4.0,170,5,"Historic building, Free Wi-Fi, Breakfast"
+Palazzo Sereno,Venice,4.8,250,4,"Spa, Canal view, Luxury suites"
+Venetian Garden Lodge,Venice,3.9,130,8,"Courtyard, Free Wi-Fi, Breakfast"
+
+Empire Suites,New York,4.6,240,15,"Gym, Free Wi-Fi, Breakfast"
+Central Park Inn,New York,4.2,190,12,"Park views, Breakfast"
+Times Square Retreat,New York,4.0,170,9,"Free Wi-Fi, Central location"
+Hudson River Hotel,New York,4.4,220,10,"Rooftop bar, Gym"
+East Village Boutique,New York,3.9,150,11,"Trendy area, Free Wi-Fi"
+
+Parisian Dreams Hotel,Paris,4.5,180,14,"Eiffel view, Breakfast, Free Wi-Fi"
+Hotel Lumière,Paris,4.2,160,11,"Romantic decor, Breakfast"
+Seine Riverside Hotel,Paris,4.3,170,9,"River views, Free Wi-Fi"
+Montmartre Maison,Paris,4.0,140,10,"Historic district, Breakfast"
+Paris City Comfort,Paris,3.7,110,13,"Free Wi-Fi, City links"
+
+Dubai Skyline Resort,Dubai,4.8,260,10,"Luxury, Pool, Spa, Free Wi-Fi"
+Palm Oasis Hotel,Dubai,4.5,230,8,"Beachfront, Breakfast"
+Dubai Marina Suites,Dubai,4.3,210,7,"Marina views, Gym"
+Sahara Sunset Hotel,Dubai,4.0,170,11,"Pool, Breakfast"
+Golden Dunes Lodge,Dubai,3.9,150,14,"Desert tours, Free Wi-Fi"

@@ -1,0 +1,19 @@
+flight_number,airline,departure_city,arrival_city,departure_time,arrival_time,duration,price,class,availability,flight_type
+CY123,Cyprus Airways,London,Larnaca,2025-12-30 08:00,2025-12-30 14:30,6h 30m,150,Economy,5,Single
+CY456,British Airways,London,Larnaca,2025-12-30 13:00,2025-12-30 19:30,6h 30m,180,Economy,3,Single
+GR789,Aegean Airlines,London,Athens,2025-12-31 09:00,2025-12-31 14:00,5h 0m,170,Economy,2,Single
+GR101,Ryanair,London,Athens,2025-12-31 15:00,2025-12-31 20:00,5h 0m,150,Economy,6,Single
+IT202,Alitalia,London,Venice,2025-12-30 10:00,2025-12-30 13:00,3h 0m,140,Economy,5,Single
+IT303,ITA Airways,London,Venice,2025-12-31 12:00,2025-12-31 15:00,3h 0m,155,Economy,4,Single
+VS003,Virgin Atlantic,London,New York,2025-12-29 10:00,2025-12-29 13:00,8h 00m,450,Economy,10,Single
+BA115,British Airways,London,New York,2025-12-30 16:00,2025-12-30 19:00,8h 00m,480,Economy,8,Single
+AF168,Air France,London,Paris,2025-12-30 07:00,2025-12-30 09:15,1h 15m,90,Economy,15,Single
+U2456,EasyJet,London,Paris,2025-12-31 14:00,2025-12-31 16:15,1h 15m,75,Economy,4,Single
+EK001,Emirates,London,Dubai,2025-12-28 14:00,2025-12-29 00:45,6h 45m,550,Economy,12,Single
+BA107,British Airways,London,Dubai,2025-12-30 12:30,2025-12-30 23:15,6h 45m,520,Economy,5,Single
+CY124,Cyprus Airways,Larnaca,London,2026-01-05 15:30,2026-01-05 18:30,5h 00m,160,Economy,6,Return
+BA457,British Airways,Larnaca,London,2026-01-06 10:00,2026-01-06 13:00,5h 00m,190,Economy,4,Return
+GR790,Aegean Airlines,Athens,London,2026-01-04 18:00,2026-01-04 20:00,4h 00m,165,Economy,8,Return
+IT203,Alitalia,Venice,London,2026-01-03 14:00,2026-01-03 15:10,2h 10m,130,Economy,6,Return
+VS004,Virgin Atlantic,New York,London,2026-01-05 18:00,2026-01-06 06:00,7h 00m,440,Economy,9,Return
+EK002,Emirates,Dubai,London,2026-01-07 08:00,2026-01-07 12:00,7h 00m,560,Economy,10,Return
